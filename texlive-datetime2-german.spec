@@ -3,7 +3,7 @@ Version:	67201
 Release:	1
 Summary:	German language module for the datetime2 package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-german
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-german
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-german.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-german.doc.r%{version}.tar.xz
